@@ -1,0 +1,1 @@
+start cmd /k \path\to\mona-mine.bat
